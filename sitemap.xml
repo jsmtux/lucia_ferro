@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://luciaferro.es/</loc>
+    <lastmod>2020-07-29T16:32:48+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://luciaferro.es/posts/</loc>
+    <lastmod>2020-07-29T16:32:48+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://luciaferro.es/posts/primeiro_post/</loc>
+    <lastmod>2020-07-29T16:32:48+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://luciaferro.es/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -10,12 +31,6 @@
   
   <url>
     <loc>http://luciaferro.es/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://luciaferro.es/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

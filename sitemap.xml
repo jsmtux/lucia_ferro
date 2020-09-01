@@ -4,59 +4,66 @@
   
   <url>
     <loc>http://luciaferro.es/</loc>
-    <lastmod>2020-08-06T17:34:21+02:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2020-08-18T14:13:34+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://luciaferro.es/posts/por-que-non-era-boa-enfermeira/</loc>
+    <lastmod>2020-08-18T14:13:34+02:00</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://luciaferro.es/posts/</loc>
-    <lastmod>2020-08-06T17:34:21+02:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2020-08-18T14:13:34+02:00</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://luciaferro.es/posts/yina/</loc>
     <lastmod>2020-08-06T17:34:21+02:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://luciaferro.es/posts/que-nos-dan-as-historias/</loc>
     <lastmod>2020-08-01T17:34:21+02:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://luciaferro.es/categories/</loc>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://luciaferro.es/contact/</loc>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://luciaferro.es/libros/</loc>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://luciaferro.es/about/</loc>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://luciaferro.es/tags/</loc>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   

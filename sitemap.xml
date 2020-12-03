@@ -4,14 +4,21 @@
   
   <url>
     <loc>http://luciaferro.es/</loc>
-    <lastmod>2020-11-06T00:30:21+01:00</lastmod>
+    <lastmod>2020-12-03T12:05:54+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://luciaferro.es/posts/</loc>
-    <lastmod>2020-11-06T00:30:21+01:00</lastmod>
+    <lastmod>2020-12-03T12:05:54+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://luciaferro.es/posts/sempre-fun-un-toxo/</loc>
+    <lastmod>2020-12-03T12:05:54+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

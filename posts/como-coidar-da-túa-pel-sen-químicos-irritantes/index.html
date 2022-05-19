@@ -41,7 +41,8 @@
 <meta name="twitter:title" content="Como protexer a nosa pel: por dentro e por fóra"/>
 <meta name="twitter:description" content="Colle unha crema hidratante e le os ingredientes. A que compras no supermercado ou a da tenda de cosméticos máis cara do barrio, non importa, ti le os ingredientes. Con total seguridade atoparás nesa lista algún nome que remate en -ol ou -yl, eses son alcoholes ou derivados. A miúdo pódese ler petrolatum, parabens ou siglas ás que non lle poñemos sentido como BHA, BHT, PEG&hellip; E por suposto as palabras máis inofensivas da lista: parfum e fragance."/>
 
-	
+	<script src="https://www.google.com/recaptcha/api.js?render=6Le9ngEgAAAAADMhl-mB8HECEdv48aw67ZbiOSeE"></script>
+
   </head>
 
   <body class="ma0 courier">
@@ -307,6 +308,17 @@
     })();
   </script>
   
+  
+  <script>
+   grecaptcha.ready(function() {
+       grecaptcha.execute('6Le9ngEgAAAAADMhl-mB8HECEdv48aw67ZbiOSeE', {action: 'homepage'})
+       .then(function(token) {
+         document.getElementById('captchaResponse').value = token;
+       });
+     });
+  </script>
+  
+
   <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
 
 

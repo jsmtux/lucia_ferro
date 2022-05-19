@@ -41,7 +41,8 @@
 <meta name="twitter:title" content="Mindfulness en Galego"/>
 <meta name="twitter:description" content="Hoxe en día, nun ano tan complicado como o 2020, a relaxación é o ben máis prezado. Ás veces obsesionámonos tanto con traballar que esquecemos esa parte do noso ser que precisa unha atención especial. Pensamos que se traballamos e alcanzamos certas metas chegará un día no que todo terá sentido. O problema é que a vida non ten sentido, ou polo menos non ten máis sentido que aquel que lle queiramos dar."/>
 
-	
+	<script src="https://www.google.com/recaptcha/api.js?render=6Le9ngEgAAAAADMhl-mB8HECEdv48aw67ZbiOSeE"></script>
+
   </head>
 
   <body class="ma0 courier">
@@ -269,6 +270,17 @@
     })();
   </script>
   
+  
+  <script>
+   grecaptcha.ready(function() {
+       grecaptcha.execute('6Le9ngEgAAAAADMhl-mB8HECEdv48aw67ZbiOSeE', {action: 'homepage'})
+       .then(function(token) {
+         document.getElementById('captchaResponse').value = token;
+       });
+     });
+  </script>
+  
+
   <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
 
 

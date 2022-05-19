@@ -41,7 +41,8 @@
 <meta name="twitter:title" content="Sobre min"/>
 <meta name="twitter:description" content="O erros non nos apartan da verdade, de feito o recoñecemento dos mesmos achégannos máis a ela."/>
 
-	
+	<script src="https://www.google.com/recaptcha/api.js?render=6Le9ngEgAAAAADMhl-mB8HECEdv48aw67ZbiOSeE"></script>
+
   </head>
 
   <body class="ma0 courier">
@@ -201,6 +202,17 @@
     })();
   </script>
   
+  
+  <script>
+   grecaptcha.ready(function() {
+       grecaptcha.execute('6Le9ngEgAAAAADMhl-mB8HECEdv48aw67ZbiOSeE', {action: 'homepage'})
+       .then(function(token) {
+         document.getElementById('captchaResponse').value = token;
+       });
+     });
+  </script>
+  
+
   <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
 
 

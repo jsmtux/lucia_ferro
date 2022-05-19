@@ -41,7 +41,8 @@
 <meta name="twitter:title" content="Lucía Ferro"/>
 <meta name="twitter:description" content="O segredo dunha historia, como da vida mesma, é a nosa propia transformación."/>
 
-	
+	<script src="https://www.google.com/recaptcha/api.js?render=6Le9ngEgAAAAADMhl-mB8HECEdv48aw67ZbiOSeE"></script>
+
   </head>
 
   <body class="ma0 courier">
@@ -351,6 +352,17 @@ Unha vez máis estás a repasar a primeira páxina da túa novela. Xa cambiaches
     })();
   </script>
   
+  
+  <script>
+   grecaptcha.ready(function() {
+       grecaptcha.execute('6Le9ngEgAAAAADMhl-mB8HECEdv48aw67ZbiOSeE', {action: 'homepage'})
+       .then(function(token) {
+         document.getElementById('captchaResponse').value = token;
+       });
+     });
+  </script>
+  
+
   <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
 
 

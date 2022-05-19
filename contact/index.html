@@ -41,7 +41,8 @@
 <meta name="twitter:title" content="Contacto"/>
 <meta name="twitter:description" content="Espero a túa mensaxe con ilusión."/>
 
-	
+	<script src="https://www.google.com/recaptcha/api.js?render=6Le9ngEgAAAAADMhl-mB8HECEdv48aw67ZbiOSeE"></script>
+
   </head>
 
   <body class="ma0 courier">
@@ -144,7 +145,6 @@
 
 
 <form class="black-80 sans-serif" accept-charset="UTF-8" action="https://getform.io/f/56541704-997c-4c10-9d88-75a02dfa37ad" method="POST" role="form">
-
     <label class="f6 b db mb1 mt3 sans-serif mid-gray"  for="name">O teu nome</label>
     <input type="text" id="name" name="name" class="w-100 f5 pv3 ph3 bg-light-gray bn"  required placeholder=" "  aria-labelledby="name"/>
 
@@ -159,6 +159,7 @@
 
     <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black" type="submit" value="Enviar" />
 
+    <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
 </form>
 
 
@@ -216,6 +217,17 @@
     })();
   </script>
   
+  
+  <script>
+   grecaptcha.ready(function() {
+       grecaptcha.execute('6Le9ngEgAAAAADMhl-mB8HECEdv48aw67ZbiOSeE', {action: 'homepage'})
+       .then(function(token) {
+         document.getElementById('captchaResponse').value = token;
+       });
+     });
+  </script>
+  
+
   <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
 
 

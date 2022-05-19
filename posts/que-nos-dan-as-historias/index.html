@@ -41,7 +41,8 @@
 <meta name="twitter:title" content="Que é iso que nos dan as historias que nos gusta tanto?"/>
 <meta name="twitter:description" content="A seguinte foto é un fragmento do libro “El Héroe de las Mil Caras” de Joseph Campbell. El é o pai da psicanálise do mito. Estudou unha gran variedade de historias e analizou tanto a súa estrutura como o seu significado. Neste fragmento el trata de explicar que é iso que nos dan as historias que nos gusta tanto. A súa forma de escribir pode resultar un pouco densa e por iso decidín compartir convosco a miña interpretación das súas palabras."/>
 
-	
+	<script src="https://www.google.com/recaptcha/api.js?render=6Le9ngEgAAAAADMhl-mB8HECEdv48aw67ZbiOSeE"></script>
+
   </head>
 
   <body class="ma0 courier">
@@ -253,6 +254,17 @@ Por sorte existe outro punto de vista. Outra decisión que tomar. Outra elecció
     })();
   </script>
   
+  
+  <script>
+   grecaptcha.ready(function() {
+       grecaptcha.execute('6Le9ngEgAAAAADMhl-mB8HECEdv48aw67ZbiOSeE', {action: 'homepage'})
+       .then(function(token) {
+         document.getElementById('captchaResponse').value = token;
+       });
+     });
+  </script>
+  
+
   <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
 
 

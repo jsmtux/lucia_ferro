@@ -41,7 +41,8 @@
 <meta name="twitter:title" content="Merquemos A Nosa Roupa Con Sentidiño"/>
 <meta name="twitter:description" content="Hoxe en día existen moitas maneiras diferentes de entender o consumo responsable. O minimalismo e o zero waste (cero lixo) son dúas tendencias moi discutidas. En liñas xerais a primeira consiste en reducir as túas posesións ao mínimo número posible e converterte así nunha persoa que non precisa o material para sentirse satisfeito. No caso do zero waste o obxectivo é reducir a cantidade de lixo que producimos. O problema é que en moitos casos estas iniciativas non se poden levar a cabo xa que para algunhas familias supoñería un gasto económico maior do previsto."/>
 
-	
+	<script src="https://www.google.com/recaptcha/api.js?render=6Le9ngEgAAAAADMhl-mB8HECEdv48aw67ZbiOSeE"></script>
+
   </head>
 
   <body class="ma0 courier">
@@ -267,6 +268,17 @@ Por tanto a etiqueta comercial non pode ser a nosa guía. O que me gusta emprega
     })();
   </script>
   
+  
+  <script>
+   grecaptcha.ready(function() {
+       grecaptcha.execute('6Le9ngEgAAAAADMhl-mB8HECEdv48aw67ZbiOSeE', {action: 'homepage'})
+       .then(function(token) {
+         document.getElementById('captchaResponse').value = token;
+       });
+     });
+  </script>
+  
+
   <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
 
 

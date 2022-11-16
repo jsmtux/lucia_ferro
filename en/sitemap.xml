@@ -16,6 +16,26 @@
                 href="https://luciaferro.es/en/libros/"
                 />
   </url><url>
+    <loc>https://luciaferro.es/en/posts/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://luciaferro.es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luciaferro.es/en/posts/"
+                />
+  </url><url>
+    <loc>https://luciaferro.es/en/poems/</loc>
+    <lastmod>2022-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://luciaferro.es/en/posts/is_jesus_fictional/</loc>
     <lastmod>2022-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -36,27 +56,7 @@
                 href="https://luciaferro.es/en/"
                 />
   </url><url>
-    <loc>https://luciaferro.es/en/posts/</loc>
-    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="gl"
-                href="https://luciaferro.es/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luciaferro.es/en/posts/"
-                />
-  </url><url>
     <loc>https://luciaferro.es/en/poems/its_monday/</loc>
-    <lastmod>2022-11-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://luciaferro.es/en/poems/</loc>
     <lastmod>2022-11-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

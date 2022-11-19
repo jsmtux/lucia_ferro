@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Sobre min on Lucía Ferro</title>
-    <link>https://luciaferro.es/about/</link>
-    <description>Recent content in Sobre min on Lucía Ferro</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>gl-es</language><atom:link href="https://luciaferro.es/about/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+    <channel>
+        <title>Sobre min on Lucía Ferro</title>
+        <link>https://luciaferro.es/about/</link>
+        <description>Recent content in Sobre min on Lucía Ferro</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>gl-es</language><atom:link href="https://luciaferro.es/about/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
 </rss>

@@ -28,13 +28,10 @@
                 />
   </url><url>
     <loc>https://luciaferro.es/en/poems/</loc>
-    <lastmod>2022-11-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luciaferro.es/en/posts/is_jesus_fictional/</loc>
-    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciaferro.es/en/</loc>
-    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="gl"
@@ -45,6 +42,12 @@
                 hreflang="en"
                 href="https://luciaferro.es/en/"
                 />
+  </url><url>
+    <loc>https://luciaferro.es/en/poems/walk_towards_it/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luciaferro.es/en/posts/is_jesus_fictional/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciaferro.es/en/poems/its_monday/</loc>
     <lastmod>2022-11-07T00:00:00+00:00</lastmod>

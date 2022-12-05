@@ -15,7 +15,7 @@
                 />
   </url><url>
     <loc>https://luciaferro.es/en/posts/</loc>
-    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="gl"
@@ -30,11 +30,11 @@
     <loc>https://luciaferro.es/en/poems/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luciaferro.es/en/posts/middleclass/</loc>
-    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
+    <loc>https://luciaferro.es/en/posts/capitalism_broke_family/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciaferro.es/en/</loc>
-    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="gl"
@@ -45,6 +45,9 @@
                 hreflang="en"
                 href="https://luciaferro.es/en/"
                 />
+  </url><url>
+    <loc>https://luciaferro.es/en/posts/middleclass/</loc>
+    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciaferro.es/en/poems/walk_towards_it/</loc>
     <lastmod>2022-11-21T00:00:00+00:00</lastmod>

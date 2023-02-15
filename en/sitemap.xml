@@ -15,7 +15,7 @@
                 />
   </url><url>
     <loc>https://luciaferro.es/en/posts/</loc>
-    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="gl"
@@ -30,11 +30,8 @@
     <loc>https://luciaferro.es/en/poems/</loc>
     <lastmod>2022-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luciaferro.es/en/posts/a_future_with_no_anxiety_ecovillages/</loc>
-    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://luciaferro.es/en/</loc>
-    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="gl"
@@ -45,6 +42,12 @@
                 hreflang="en"
                 href="https://luciaferro.es/en/"
                 />
+  </url><url>
+    <loc>https://luciaferro.es/en/posts/gender_debate/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luciaferro.es/en/posts/a_future_with_no_anxiety_ecovillages/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciaferro.es/en/posts/avoiding_a_catastrophe_nuclear_winter/</loc>
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>

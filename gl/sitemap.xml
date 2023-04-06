@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://luciaferro.es/libros/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luciaferro.es/en/libros/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://luciaferro.es/libros/"
+                />
+  </url><url>
     <loc>https://luciaferro.es/posts/</loc>
-    <lastmod>2023-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +28,7 @@
                 />
   </url><url>
     <loc>https://luciaferro.es/</loc>
-    <lastmod>2023-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,6 +39,9 @@
                 hreflang="gl"
                 href="https://luciaferro.es/"
                 />
+  </url><url>
+    <loc>https://luciaferro.es/posts/so%C3%B1an_co_vento/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciaferro.es/posts/fediverso/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
@@ -118,6 +133,30 @@
                 href="https://luciaferro.es/categories/"
                 />
   </url><url>
+    <loc>https://luciaferro.es/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luciaferro.es/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://luciaferro.es/contact/"
+                />
+  </url><url>
+    <loc>https://luciaferro.es/librarias/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luciaferro.es/en/librarias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://luciaferro.es/librarias/"
+                />
+  </url><url>
     <loc>https://luciaferro.es/page/librarias/</loc>
     <xhtml:link
                 rel="alternate"
@@ -152,6 +191,18 @@
                 rel="alternate"
                 hreflang="gl"
                 href="https://luciaferro.es/page/"
+                />
+  </url><url>
+    <loc>https://luciaferro.es/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luciaferro.es/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://luciaferro.es/about/"
                 />
   </url><url>
     <loc>https://luciaferro.es/page/about/</loc>

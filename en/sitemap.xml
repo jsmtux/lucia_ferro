@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://luciaferro.es/en/libros/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://luciaferro.es/libros/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luciaferro.es/en/libros/"
+                />
+  </url><url>
     <loc>https://luciaferro.es/en/page/libros/</loc>
     <xhtml:link
                 rel="alternate"
@@ -184,6 +196,18 @@
     <loc>https://luciaferro.es/en/poems/one_day_at_a_time/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://luciaferro.es/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://luciaferro.es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luciaferro.es/en/about/"
+                />
+  </url><url>
     <loc>https://luciaferro.es/en/page/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -194,6 +218,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://luciaferro.es/en/page/about/"
+                />
+  </url><url>
+    <loc>https://luciaferro.es/en/librarias/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://luciaferro.es/librarias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luciaferro.es/en/librarias/"
                 />
   </url><url>
     <loc>https://luciaferro.es/en/page/librarias/</loc>
@@ -218,6 +254,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://luciaferro.es/en/categories/"
+                />
+  </url><url>
+    <loc>https://luciaferro.es/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://luciaferro.es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luciaferro.es/en/contact/"
                 />
   </url><url>
     <loc>https://luciaferro.es/en/page/</loc>

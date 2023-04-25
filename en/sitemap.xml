@@ -27,7 +27,7 @@
                 />
   </url><url>
     <loc>https://luciaferro.es/en/posts/</loc>
-    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="gl"
@@ -42,11 +42,8 @@
     <loc>https://luciaferro.es/en/poems/</loc>
     <lastmod>2022-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luciaferro.es/en/posts/julianbarnes/</loc>
-    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://luciaferro.es/en/</loc>
-    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="gl"
@@ -57,6 +54,12 @@
                 hreflang="en"
                 href="https://luciaferro.es/en/"
                 />
+  </url><url>
+    <loc>https://luciaferro.es/en/posts/businesses_destroying_fashion_industry/</loc>
+    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luciaferro.es/en/posts/julianbarnes/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciaferro.es/en/posts/feminist_revolution_care/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>

@@ -10,7 +10,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/libros/"
                 />
   </url><url>
@@ -23,7 +23,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/posts/"
                 />
   </url><url>
@@ -39,7 +39,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/"
                 />
   </url><url>
@@ -123,7 +123,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/search/"
                 />
   </url><url>
@@ -135,7 +135,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/categories/"
                 />
   </url><url>
@@ -147,7 +147,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/contact/"
                 />
   </url><url>
@@ -159,7 +159,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/librarias/"
                 />
   </url><url>
@@ -171,7 +171,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/page/librarias/"
                 />
   </url><url>
@@ -183,7 +183,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/page/libros/"
                 />
   </url><url>
@@ -195,7 +195,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/page/"
                 />
   </url><url>
@@ -207,7 +207,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/about/"
                 />
   </url><url>
@@ -219,7 +219,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/page/about/"
                 />
   </url><url>
@@ -231,7 +231,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/tags/"
                 />
   </url>

@@ -115,18 +115,6 @@
     <loc>https://luciaferro.es/posts/que-nos-dan-as-historias/</loc>
     <lastmod>2020-08-01T17:34:21+02:00</lastmod>
   </url><url>
-    <loc>https://luciaferro.es/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luciaferro.es/en/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gl-es"
-                href="https://luciaferro.es/search/"
-                />
-  </url><url>
     <loc>https://luciaferro.es/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -149,30 +137,6 @@
                 rel="alternate"
                 hreflang="gl-es"
                 href="https://luciaferro.es/contact/"
-                />
-  </url><url>
-    <loc>https://luciaferro.es/librarias/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luciaferro.es/en/librarias/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gl-es"
-                href="https://luciaferro.es/librarias/"
-                />
-  </url><url>
-    <loc>https://luciaferro.es/page/librarias/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luciaferro.es/en/page/librarias/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gl-es"
-                href="https://luciaferro.es/page/librarias/"
                 />
   </url><url>
     <loc>https://luciaferro.es/page/libros/</loc>

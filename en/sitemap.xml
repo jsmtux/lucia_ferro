@@ -235,30 +235,6 @@
                 href="https://luciaferro.es/en/page/about/"
                 />
   </url><url>
-    <loc>https://luciaferro.es/en/librarias/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="gl-es"
-                href="https://luciaferro.es/librarias/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luciaferro.es/en/librarias/"
-                />
-  </url><url>
-    <loc>https://luciaferro.es/en/page/librarias/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="gl-es"
-                href="https://luciaferro.es/page/librarias/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luciaferro.es/en/page/librarias/"
-                />
-  </url><url>
     <loc>https://luciaferro.es/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -293,18 +269,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://luciaferro.es/en/page/"
-                />
-  </url><url>
-    <loc>https://luciaferro.es/en/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="gl-es"
-                href="https://luciaferro.es/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luciaferro.es/en/search/"
                 />
   </url><url>
     <loc>https://luciaferro.es/en/tags/</loc>

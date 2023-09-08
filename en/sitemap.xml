@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://luciaferro.es/en/libros/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="gl-es"
-                href="https://luciaferro.es/libros/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luciaferro.es/en/libros/"
-                />
   </url><url>
     <loc>https://luciaferro.es/en/page/libros/</loc>
     <xhtml:link

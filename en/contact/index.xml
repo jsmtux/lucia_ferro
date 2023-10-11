@@ -4,7 +4,6 @@
         <title>Contact on Lucía Ferro</title>
         <link>https://luciaferro.es/en/contact/</link>
         <description>Recent content in Contact on Lucía Ferro</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language><atom:link href="https://luciaferro.es/en/contact/index.xml" rel="self" type="application/rss+xml" />
+        <generator>Hugo -- gohugo.io</generator><atom:link href="https://luciaferro.es/en/contact/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

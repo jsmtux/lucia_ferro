@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://luciaferro.es/page/libros/'>
 
-<link rel="stylesheet" href="/scss/style.min.f6b25cc29aca5ceb839b1be446649f2acd23beac5a81253ca7a7edc71969e8cb.css">
+<link rel="stylesheet" href="/scss/style.min.7301b88442bfcaab7665c7f6812baea4ff8ad1709d04b8c9f50bd86096f29201.css">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-J29BS7T57P"></script>
 <script>
 var doNotTrack = false;
@@ -25,6 +25,13 @@ if (!doNotTrack) {
 <meta property='og:type' content='website'><meta property='og:updated_time' content=' 2023-09-22T00:00:00&#43;00:00 '/>
 <meta name="twitter:title" content="Libros">
 <meta name="twitter:description" content=" "><link rel="alternate" type="application/rss&#43;xml" href="https://luciaferro.es/page/libros/index.xml">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+
 <link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
@@ -32,7 +39,6 @@ if (!doNotTrack) {
 <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
-
 
     </head>
     <body class="
@@ -379,44 +385,138 @@ model-viewer {
 <figure><img src="/images/imaxe_coleccion.jpg"/>
 </figure>
 
-<h3 id="mercar-onlinehttpswwwamazonesdpb0cfwz9hfr-en-tendahahahugoshortcode10s5hbhb">Mercar: <a class="link" href="https://www.amazon.es/dp/B0CFWZ9HFR"  target="_blank" rel="noopener"
+<h3 id="mercar-onlinehttpswwwamazonesdpb0cfwz9hfr-en-tendahahahugoshortcode-s5-hbhb">Mercar: <a class="link" href="https://www.amazon.es/dp/B0CFWZ9HFR"  target="_blank" rel="noopener"
     ><strong>Online</strong></a> <a class="link" href="#en-tenda" ><strong>En tenda</strong></a></h3>
 <p>Libro a libro, Lucía Ferro comparte a súa visión inusual pero comprometida da sociedade. Cada nova novela trata de distanciarse das temáticas e formas das anteriores para sorprender ao lector, pero mantendo unha solidariedade inusual coas persoas ás que non soemos adicar unha segunda ollada.</p>
 <p>Por isto, se che gustou algunha das súas obras ou te interesaron os seus artigos, non dubides en achegarte á colección enteira, dispoñible polo momento en Amazon ou en tendas, e próximamente a través desta web.</p>
 <h2 id="enlaces">Enlaces</h2>
 <h3 id="en-tenda">En tenda</h3>
-<div class="shop_row">
+<div id="map" style="height: 500px;"></div>
 
-<div class="shop_column">
-  <a href="https://www.libreriabahia.com">
-	  <img src="/images/Logo_Bahia_pequeno.jpg">
-	  <p>(Foz e Ribadeo)</p>
-  </a>
-</div>
+<script>
+    var leaflet_map = L.map('map').setView([42.986397573379435, -7.920833201124956], 8);
 
-<div class="shop_column">
-  <a href="https://www.libreriasnobel.es/es/busqueda/listaLibros.php?tipoBus=full&amp;palabrasBusqueda=lucia&#43;ferro&amp;boton=Buscar">
-	  <img src="/images/libNobelLogo.jpg">
-	  <p>(A Coruña e Viveiro)</p>
-  </a>
-</div>
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(leaflet_map);
 
-<div class="shop_column">
-  <a href="https://valinlibros.gal/tienda?title=resaibo&#43;amargo">
-	  <img src="/images/valin-libros-lugo.jpg">
-	  <p>(Lugo)</p>
-  </a>
-</div>
-
-<div class="shop_column">
-  <a href="https://www.facebook.com/Librer%C3%ADa-La-Gu%C3%ADa-167440716634538/">
-	  <img src="/images/la-guia-vigo.jpg">
-	  <p>(Vigo)</p>
-  </a>
-</div>
+</script>
 
 
-</div>
+<script>
+
+var coord = "43.536821755844336, -7.043121009588053".split(",")
+var lat = parseFloat(coord[0])
+var lon = parseFloat(coord[1])
+
+L.marker([lat, lon], {icon: L.icon({
+    iconUrl: "\/images\/Logo_Bahia_pequeno.jpg",
+
+    iconSize:     [65, 65], 
+    iconAnchor:   [45, 45], 
+    popupAnchor:  [-3, -76] 
+})}).addTo(leaflet_map).on('click', () => window.open("https://www.libreriabahia.com", '_blank').focus());
+
+
+
+</script>
+
+
+<script>
+
+var coord = "43.57016991838633, -7.257056615936604".split(",")
+var lat = parseFloat(coord[0])
+var lon = parseFloat(coord[1])
+
+L.marker([lat, lon], {icon: L.icon({
+    iconUrl: "\/images\/Logo_Bahia_pequeno.jpg",
+
+    iconSize:     [65, 65], 
+    iconAnchor:   [45, 45], 
+    popupAnchor:  [-3, -76] 
+})}).addTo(leaflet_map).on('click', () => window.open("https://www.libreriabahia.com", '_blank').focus());
+
+
+
+</script>
+
+
+<script>
+
+var coord = "43.66529643376505, -7.594281016729762".split(",")
+var lat = parseFloat(coord[0])
+var lon = parseFloat(coord[1])
+
+L.marker([lat, lon], {icon: L.icon({
+    iconUrl: "\/images\/libNobelLogo.jpg",
+
+    iconSize:     [65, 65], 
+    iconAnchor:   [45, 45], 
+    popupAnchor:  [-3, -76] 
+})}).addTo(leaflet_map).on('click', () => window.open("https://www.libreriasnobel.es/es/busqueda/listaLibros.php?tipoBus=full\u0026palabrasBusqueda=lucia+ferro\u0026boton=Buscar", '_blank').focus());
+
+
+
+</script>
+
+
+<script>
+
+var coord = "43.35718723226471, -8.410023480482828".split(",")
+var lat = parseFloat(coord[0])
+var lon = parseFloat(coord[1])
+
+L.marker([lat, lon], {icon: L.icon({
+    iconUrl: "\/images\/libNobelLogo.jpg",
+
+    iconSize:     [65, 65], 
+    iconAnchor:   [45, 45], 
+    popupAnchor:  [-3, -76] 
+})}).addTo(leaflet_map).on('click', () => window.open("https://www.libreriasnobel.es/es/busqueda/listaLibros.php?tipoBus=full\u0026palabrasBusqueda=lucia+ferro\u0026boton=Buscar", '_blank').focus());
+
+
+
+</script>
+
+
+<script>
+
+var coord = "43.01256560779699, -7.55684344437644".split(",")
+var lat = parseFloat(coord[0])
+var lon = parseFloat(coord[1])
+
+L.marker([lat, lon], {icon: L.icon({
+    iconUrl: "\/images\/valin-libros-lugo.jpg",
+
+    iconSize:     [65, 65], 
+    iconAnchor:   [45, 45], 
+    popupAnchor:  [-3, -76] 
+})}).addTo(leaflet_map).on('click', () => window.open("https://valinlibros.gal/tienda?title=resaibo+amargo", '_blank').focus());
+
+
+
+</script>
+
+
+<script>
+
+var coord = "42.21470948786184, -8.728859214887791".split(",")
+var lat = parseFloat(coord[0])
+var lon = parseFloat(coord[1])
+
+L.marker([lat, lon], {icon: L.icon({
+    iconUrl: "\/images\/la-guia-vigo.jpg",
+
+    iconSize:     [65, 65], 
+    iconAnchor:   [45, 45], 
+    popupAnchor:  [-3, -76] 
+})}).addTo(leaflet_map).on('click', () => window.open("https://www.facebook.com/Librer%C3%ADa-La-Gu%C3%ADa-167440716634538/", '_blank').focus());
+
+
+
+</script>
+
+
 
 <h3 id="online">Online</h3>
 <div class="shop_row">

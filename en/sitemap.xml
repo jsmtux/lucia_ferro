@@ -7,7 +7,7 @@
     <loc>https://luciaferro.es/en/page/libros/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/page/libros/"
                 />
     <xhtml:link
@@ -17,10 +17,10 @@
                 />
   </url><url>
     <loc>https://luciaferro.es/en/posts/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/posts/"
                 />
     <xhtml:link
@@ -32,14 +32,14 @@
     <loc>https://luciaferro.es/en/poems/</loc>
     <lastmod>2023-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luciaferro.es/en/posts/dearchildrenofthepastfuture/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+    <loc>https://luciaferro.es/en/posts/scarysuperpower/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciaferro.es/en/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/"
                 />
     <xhtml:link
@@ -47,6 +47,9 @@
                 hreflang="en"
                 href="https://luciaferro.es/en/"
                 />
+  </url><url>
+    <loc>https://luciaferro.es/en/posts/dearchildrenofthepastfuture/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciaferro.es/en/posts/bodyhair/</loc>
     <lastmod>2023-08-08T00:00:00+00:00</lastmod>
@@ -210,7 +213,7 @@
     <loc>https://luciaferro.es/en/about/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/about/"
                 />
     <xhtml:link
@@ -222,7 +225,7 @@
     <loc>https://luciaferro.es/en/page/about/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/page/about/"
                 />
     <xhtml:link
@@ -234,7 +237,7 @@
     <loc>https://luciaferro.es/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/categories/"
                 />
     <xhtml:link
@@ -246,7 +249,7 @@
     <loc>https://luciaferro.es/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/contact/"
                 />
     <xhtml:link
@@ -258,7 +261,7 @@
     <loc>https://luciaferro.es/en/page/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/page/"
                 />
     <xhtml:link
@@ -270,7 +273,7 @@
     <loc>https://luciaferro.es/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="gl"
+                hreflang="gl-es"
                 href="https://luciaferro.es/tags/"
                 />
     <xhtml:link

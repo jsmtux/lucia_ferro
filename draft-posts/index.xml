@@ -5,7 +5,6 @@
         <link>https://luciaferro.es/draft-posts/</link>
         <description>Recent content in Draft Posts on Lucía Ferro</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>gl-es</language>
-        <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://luciaferro.es/draft-posts/index.xml" rel="self" type="application/rss+xml" />
+        <language>gl-es</language><atom:link href="https://luciaferro.es/draft-posts/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

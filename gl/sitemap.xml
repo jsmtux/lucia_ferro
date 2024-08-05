@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://luciaferro.es/posts/</loc>
-    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,11 +15,11 @@
                 href="https://luciaferro.es/posts/"
                 />
   </url><url>
-    <loc>https://luciaferro.es/posts/fadasetrasnos/</loc>
-    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+    <loc>https://luciaferro.es/posts/culturaproceso/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciaferro.es/</loc>
-    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +30,9 @@
                 hreflang="gl-es"
                 href="https://luciaferro.es/"
                 />
+  </url><url>
+    <loc>https://luciaferro.es/posts/fadasetrasnos/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luciaferro.es/posts/vinteetresbagoas/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
